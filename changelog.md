@@ -9,7 +9,7 @@ Unlock Ultra Graphics And 120 FPS for Mobile Legends: Bang Bang, Touch Improveme
 
 ## Notes
 More info about this module please read on OnePlus 8 Pro Props official github.
-* https://github.com/alicee98/OnePlus-8-Pro-Props
+* [OnePlus 8 Pro Props Repo](https://github.com/alicee98/OnePlus-8-Pro-Props)
 
 ## Changelog
 **v1**
