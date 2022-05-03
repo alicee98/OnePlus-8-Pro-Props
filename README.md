@@ -1,5 +1,5 @@
 # OnePlus 8 Pro Props
-Unlock 90 FPS for PUBG Mobile, Touch Improvement, and etc. 
+Unlock Ultra Graphics And 120 FPS for Mobile Legends: Bang Bang, Touch Improvement, Unlock 90 FPS for PUBG Mobile, and etc. 
 
 ## Author
 * alicee98 aka Yudha
