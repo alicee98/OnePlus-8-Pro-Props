@@ -12,7 +12,10 @@ More info about this module please read on OnePlus 8 Pro Props official github.
 * [OnePlus 8 Pro Props Repo](https://github.com/alicee98/OnePlus-8-Pro-Props)
 
 ## Changelog
-**v1**
+**V1**
 * Add updateJson
 * Add Fast Charge Feature
 * Changes The Device Props And Make It Working In Realme/Oppo Devices
+
+**V2**
+* Fix Update.
