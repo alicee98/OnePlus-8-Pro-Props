@@ -5,7 +5,7 @@ Unlock Ultra Graphics And 120 FPS for Mobile Legends: Bang Bang, Touch Improveme
 * alicee98 aka Yudha
 
 ## Contact
-* t.me/alicee98
+* [@yudhased](https://t.me/yudhased)
 
 ## Requirement
 * Magisk 23.0+
@@ -40,7 +40,10 @@ This module will not work if You're using Touch Improvement.
 
 
 ## Changelog
-**v1**
+**V1**
 * Add updateJson
 * Add Fast Charge Feature
 * Changes The Device Props And Make It Working In Realme/Oppo Devices
+
+**V2**
+* Fix Update.
